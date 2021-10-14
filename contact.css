@@ -1,0 +1,46 @@
+.card{
+	height: 650px;
+	text-align: center;
+	margin: 0px;
+	padding: 10px 40px 10px 40px;
+}
+
+/* Footer */
+.footer {
+  padding: 3px;
+  text-align: center;
+  background:midnightBlue;
+  margin: 0px;
+  font-size: 20px;
+  color: white;
+}
+
+/* Style the top navigation bar */
+.topnav {
+  overflow: hidden;
+  background-color: steelblue;
+}
+
+/* Style the topnav links */
+.topnav a{
+  float: left;
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+.topnav img {
+  float: left;
+  padding-left: 40px
+}
+
+/* Change color on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+body{
+	padding: 0;
+	margin: 0;
+}
